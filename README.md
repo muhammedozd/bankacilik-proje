@@ -51,7 +51,7 @@ bankacilik-proje/
 
 ## Kurulum
 
-### Backend
+### Backend 
 
 ```bash
 cd backend
